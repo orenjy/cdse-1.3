@@ -6,7 +6,7 @@
      - make
      <img width="1386" height="605" alt="image" src="https://github.com/user-attachments/assets/eb73da26-0c39-4f37-9293-5c88e54b31f2" />
 
-     - zapier
+     - zapier (무료로 만들 수 있는 최대 노드가 2개)
      <img width="394" height="273" alt="image" src="https://github.com/user-attachments/assets/2801acb5-3e3a-4f24-a413-176a6d3f5b0b" />
 
    - 실행 결과 화면 캡처
