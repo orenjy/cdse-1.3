@@ -4,7 +4,7 @@
      - make, zapier 2개로 구현
    - 각 도구별 워크플로우 구성 화면 캡처
      - make
-     <img width="1108" height="382" alt="image" src="https://github.com/user-attachments/assets/5b6ffa58-3d08-4acd-b4d7-e89c369fa00d" />
+     <img width="1386" height="605" alt="image" src="https://github.com/user-attachments/assets/eb73da26-0c39-4f37-9293-5c88e54b31f2" />
 
      - zapier
      <img width="394" height="273" alt="image" src="https://github.com/user-attachments/assets/2801acb5-3e3a-4f24-a413-176a6d3f5b0b" />
@@ -14,4 +14,4 @@
        <img width="892" height="469" alt="image" src="https://github.com/user-attachments/assets/8c0190a9-f443-480b-a9fb-d594deaf49bb" />
 
    - 비교 분석 보고서 (Markdown or PDF)
-3. 
+2. 
